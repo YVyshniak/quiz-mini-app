@@ -25,6 +25,12 @@ button {
 button:hover {
   background: #006ba1;
 }
+button.correct {
+  background: #28a745;
+}
+button.incorrect {
+  background: #dc3545;
+}
 .hidden {
   display: none;
 }
